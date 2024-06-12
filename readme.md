@@ -43,7 +43,7 @@
   - `user_id`: 고객 ID (UNIQUE)
 
 ## 제출 대상
-- `test.csv` : 유저별 추천 카드 리스트 (유저별 20개 카드)
+- `submission.csv` : 유저별 추천 카드 리스트 (유저별 20개 카드)
   - `user_id`: 고객 ID (UNIQUE)
   - `homecard_id`: 카드 ID
   - `sequence`: 카드 노출 순서
